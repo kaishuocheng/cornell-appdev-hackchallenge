@@ -1,5 +1,5 @@
 # Filled
-## A dating app helps users to find love
+## A dating app.
 
 ### Screen shots 
 
